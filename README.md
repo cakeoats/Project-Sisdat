@@ -11,7 +11,7 @@
     <li><a href="#anggota-tim">Anggota Tim</a></li>
     <li><a href="#latar-belakang">Latar Belakang</a></li>
     <li><a href="#tujuan-dan-manfaat">Tujuan dan Manfaat</a></li>
-    <li><a href="#penjelasan-website">Penjelasan Aplikasi</a></li>
+    <li><a href="#penjelasan-website">Penjelasan Website</a></li>
     <li><a href="#gambar-rancangan-antarmuka">Gambar Rancangan Antarmuka</a></li>
     <li><a href="#rencana-pengerjaan-proyek">Rencana Pengerjaan Proyek</a></li>
     <li><a href="#lisensi">Lisensi</a></li>
@@ -61,30 +61,7 @@ Program yang akan kami buat adalah sebuah program yang berhubungan dengan keseha
   
 
 <!-- Gambar Rancangan Antarmuka -->
-## Gambar Rancangan Antarmuka
 
-|               MENU                   |
-|--------------------------------------|
-|                                      |
-|1. JNE                                |
-|2. J&T Express                        |
-|3. Si Cepat                           |
-|--------------------------------------|
-
-
-|      PROGRAM Antar Paket             |
-|--------------------------------------|
-|Menu                                  |
-|1. masukkan barang                    |
-|2. keluarkan barang yang akan diantar |
-|3. cari barang                        |
-|4. rubah barang                       |
-|5. hapus barang                       |
-|6. keluar                             |
-|--------------------------------------|
-|List Barang                           |
-|                                      |
-|(LIST BARANG YANG SUDAH DIINPUT)      |
 
 <!-- Rencana Pengerjaan Proyek -->
 ## Rencana Pengerjaan Proyek
