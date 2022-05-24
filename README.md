@@ -65,11 +65,10 @@ Program yang akan kami buat adalah sebuah program yang berhubungan dengan keseha
 -- DEKSTOP --
 ![](img/dekstop_login.png)
 ![](img/dekstop_view.png)
-
-<br>
-</br>
+<br></br>
 
 -- MOBILE --
+<br> </br>
 ![](img/login_mobile.jpg)
 ![](img/view_mobile.jpg)
 
