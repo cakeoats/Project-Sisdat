@@ -62,12 +62,12 @@ Program yang akan kami buat adalah sebuah program yang berhubungan dengan keseha
 
 <!-- Gambar Rancangan Antarmuka -->
 ## Gambar Rancangan Antarmuka
--- DEKSTOP --
+## DEKSTOP 
 ![](img/dekstop_login.png)
 ![](img/dekstop_view.png)
 <br></br>
 
--- MOBILE --
+## MOBILE
 <br> </br>
 ![](img/login_mobile.jpg)
 ![](img/view_mobile.jpg)
