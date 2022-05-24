@@ -61,6 +61,14 @@ Program yang akan kami buat adalah sebuah program yang berhubungan dengan keseha
   
 
 <!-- Gambar Rancangan Antarmuka -->
+## Gambar Rancangan Antarmuka
+-- DEKSTOP --
+![](img/dekstop_login.png)
+![](img/dekstop_view.png)
+
+-- MOBILE --
+![](img/login_mobile.jpg)
+![](img/view_mobile.jpg)
 
 
 <!-- Rencana Pengerjaan Proyek -->
