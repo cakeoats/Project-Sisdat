@@ -29,30 +29,36 @@
 <!-- Latar Belakang -->
 ## Latar Belakang
 
-Pada saat ini, banyak sekali orang yang melakukan usah perdagangan baik itu secara offline ataupun online. Dalam sebuah perdagangan online tentu saja akan selalu ada barang yang dikirimkan ke tempat pembeli segera setelah melakukan pembelian. Maka dari itu, kami membuat sebuah aplikasi untuk mengorganisasikan hal tersebut dimana disini pengguna bisa memilih 3 ekspedisi yang menggunakan konsep stack (Last In First Out) atau pun konsep queue (First In First Out), dan Single Linked List.
+Zaman millennial atau yang kita kenal sebagai Gen Z merupakan zaman dimana kebanyakan orang sekarang memberlakukan gaya hidup yang konsumtif, banyak dari mereka yang dengan sengaja menghamburkan uang yang dia dapatkan untuk memenuhi gaya hidup yang seharusnya tidak dilakukan atau dengan kata lain adalah gengsi, oleh karena sangatlah penting bagi kita dapat mengatur keuangan yang masuk dan juga keluar, salah satunya adalah dengan manajemen keuangan.
+
+Manajemen keuangan sangatlah penting dilakukan agar mahasiswa bisa mengelola keuangannya dengan baik dan bisa menyeimbangkan antara pemasukan serta pengeluarannya. Dengan keseimbangan keuangan yang baik maka mahasiswa dapat memenuhi kebutuhan hidupnya sehari-hari, keinginannya atau bisa untuk ditabung dan diinvestasikan.
+Manajemen keuangan mengatur agar uang yang dikeluarkan memang yang benar-benar dibutuhkan dan dapat menghindari terjadinya pemborosan.
+
 
 
 <!-- Tujuan dan Manfaat -->
 ## Tujuan dan Manfaat
 
-Tujuan dan manfaat dari aplikasi yang kami buat adalah untuk mempermudah pelaku usaha/pengguna dalam mengorganisasikan barang tergantung dengan ekspedisi yang dipilih pembeli dengan konsep Stack (Last In First Out) ataupun konsep queue (First In First Out), dan juga Single Linked List.
+1. Membantu mahasiswa dalam perencanaan keuangan dengan baik.
+2. Membantu mahasiswa dalam mengatur arus keuangan dana yang diterima dan juga digunakan dengan optimal dan efisien.
+3. Terhindar dari gaya konsumtif.
+
 
 <!-- Penjelasan Aplikasi -->
-## Penjelasan Aplikasi
+## Penjelasan Website
+Website yang kami buat merupakan website manajemen keuangan atau cashflow yang dimana didalamnya memanfaatkan metode CRUD (Create,Read,Update,Delete)
 
-Aplikasi yang akan dibuat berupa aplikasi pengorganisasian barang yang terdapat di gudang yang dapat dipilih dengan konsep stack, queue, maupun single linked list dengan fitur sebagai berikut:
-  - Insert,
-    Untuk memasukkan barang antrian di gudang
+Program yang akan kami buat adalah sebuah program yang berhubungan dengan keseharian di sektor keuangan, yaitu mengatur alur masuk dan keluar uang, dan “CASHFLOW” merupakan nama dari program sekaligus aplikasi yang akan kami buat.
+
+  - Create,
+    untuk membuat record baru pada sistem basis data.
+  - Read,
+    untuk mencari atau mengambil data tertentu yang berada di dalam tabel dengan membaca nilainya.
+  - Update,
+    untuk memodifikasi data atau record yang telah tersimpan di dalam database.
   - Delete,
-    untuk menghapus barang yang sudah diantarkan
-  - Search,
-    untuk mencari barang
-  - Change/Modify,
-    untuk mengganti barang dalam antrian
-  - Destroy List,
-    untuk menghapus seluruh antrian
-  - Exit,
-    untuk keluar dari aplikasi
+    untuk menghapus suatu record dari basis data
+  
 
 <!-- Gambar Rancangan Antarmuka -->
 ## Gambar Rancangan Antarmuka
