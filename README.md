@@ -66,6 +66,9 @@ Program yang akan kami buat adalah sebuah program yang berhubungan dengan keseha
 ![](img/dekstop_login.png)
 ![](img/dekstop_view.png)
 
+<br>
+</br>
+
 -- MOBILE --
 ![](img/login_mobile.jpg)
 ![](img/view_mobile.jpg)
